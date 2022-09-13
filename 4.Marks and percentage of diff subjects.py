@@ -6,7 +6,7 @@ d = int(input("Enter the marks of French:"))
 e = int(input("Enter the marks of AI:"))
 #Now sum the total marks and print the marks and percentage
 sum = a+b+c+d+e
-percentage = (sum/5)*100 #please check this line HELP
+percentage = (sum/500)*100
 
 print("The sum is= ", sum)
 print("The percentage is= ", percentage)
